@@ -7,8 +7,9 @@
     "start": "electron ."
   },
   "author": "Razaqul Tegar <myrazaqul@gmail.com>",
+  "author": "lobner <lobner@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron-prebuilt": "^1.4.13"
+    "electron": "^1.7.10"
   }
 }
